@@ -5,16 +5,13 @@
 
 ## 🚀 About Me
 
-I’m a **Senior QA Automation Engineer and Delivery Lead** with **12+ years of experience** in building reliable, scalable, and high-impact testing solutions for enterprise applications — including transactional systems, web platforms, mobile apps, and APIs.
+I’m a **Senior QA Automation Engineer and Delivery Lead** with **12+ years** of experience ensuring quality, reliability, and release confidence across enterprise web, API, cloud, and transactional platforms.
 
-My expertise spans:
-- Automation framework design & implementation  
-- API and functional testing at scale  
-- CI/CD pipeline integration  
-- UAT and release validation  
-- AI-assisted automation with Claude AI (MCP Agents) & GitHub Copilot
+I specialize in designing and **scaling QA automation frameworks**, leading UAT and release validation, and embedding automated testing into CI/CD pipelines to deliver predictable, high-quality software.
 
-I’m passionate about writing clean, maintainable code and automating quality assurance wherever possible.
+In recent years, I’ve actively incorporated **AI-assisted and agentic QA practices—leveraging tools** like **Claude AI (MCP Agents)** and **GitHub Copilot** to optimize test generation, framework maintenance, debugging, and regression efficiency.
+
+I’ve contributed to platforms serving **50M+ global users** and delivered **120+ production releases** with zero **Sev-1 defects**, working closely with cross-functional teams across **US, UK, EU, and Middle East regions**.
 
 ---
 
@@ -55,19 +52,28 @@ I’m passionate about writing clean, maintainable code and automating quality a
 
 ---
 
-## 🌱 What You’ll Find Here
+## 📌 Featured Work & Focus Areas
 
-I’m in the process of building and publishing repositories focused on:
-- **QA Automation Framework Examples** (Playwright / Selenium / API)  
-- **AI-Assisted Test Designs** (using GPT-based tools & agents)  
-- **CI/CD Integrations for QA Pipelines**  
-- **Reusable Test Utilities & Templates**
+**Enterprise Learning Platforms** – QA automation & release delivery at global scale
+**Transactional & Payment Systems** – Automation, UAT, and regression validation
+**Agentic AI QA Frameworks** – AI-assisted test generation and execution workflows
+**CI/CD Pipelines** – Continuous testing and release readiness
+**QA Metrics & Reporting** – Data-driven release health and quality insights
 
 Stay tuned — exciting content is coming soon! 🚀
 
 ---
 
-## 📫 Connect With Me
+## 🌍 What I’m Open To
+
+Senior SDET / QA Automation Lead roles
+QA Delivery & Release Ownership
+Enterprise, FinTech, and SaaS platforms
+Remote or Middle East (UAE-focused) opportunities
+
+---
+
+## 📫 Let's Connect
 
 If you're interested in collaboration, QA leadership insights, or automation discussions:
 
