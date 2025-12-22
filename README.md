@@ -77,8 +77,8 @@ Remote or Middle East (UAE-focused) opportunities
 
 If you're interested in collaboration, QA leadership insights, or automation discussions:
 
-🔹 **LinkedIn:** https://www.linkedin.com/in/saima-khan-358b86223/  
-🔹 **Email:** saimakhan.official99@gmail.com
+![LinkedIn](https://www.linkedin.com/in/saima-khan-358b86223/)  
+![Email](mailto:saimakhan.official99@gmail.com)
 
 Let’s build quality software together! 💡✨
 
