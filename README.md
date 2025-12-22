@@ -18,28 +18,40 @@ I’m passionate about writing clean, maintainable code and automating quality a
 
 ---
 
-## 🧰 Core Skills
+### 🧰 Core Skills/Tech Stack
 
-### 🔍 Automation & Testing
-- Playwright • Selenium • Cypress • Appium  
-- Rest-Assured • Postman  
-- Regression & UAT Testing  
-- Test Automation Architecture  
+#### 🧪 QA Automation & Testing
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber_BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-EA4AAA?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🤖 AI-Assisted QA
-- Claude AI (MCP Agents)  
-- GitHub Copilot  
-- AI-Assisted Script Generation & Optimization
+#### 🤖 Agentic AI & AI-Assisted QA
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-4B7BEC?style=for-the-badge)
+![Claude AI](https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C4DFF?style=for-the-badge)
 
-### ⚙️ DevOps & CI/CD
-- Jenkins • Git • GitLab  
-- CI/CD Pipeline Automation  
-- AWS & Azure (QA Environments)
+#### 💻 Programming & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge)
 
-### 🧠 Languages & Tools
-- Java • Python • JavaScript • SQL  
-- TestNG • PyTest • Cucumber  
-- Agile & Scrum Practices
+#### 🔄 CI/CD, DevOps & APIs
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+
+#### ☁️ Cloud, Data & Reporting
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
