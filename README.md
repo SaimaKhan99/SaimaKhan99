@@ -1,4 +1,4 @@
-# **Hi, My name is Saima** 👋  
+# **Hi, I am Saima** 👋  
 # **Senior QA Automation Engineer | SDET | Agentic-AI QA Practitioner**
 
 ---
