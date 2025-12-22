@@ -1,5 +1,5 @@
 # **Hi, I am Saima** 👋  
-# **Senior QA Automation Engineer | SDET | Agentic-AI QA Practitioner**
+# **A Senior QA Automation Lead | SDET | Agentic-AI QA Practitioner**
 
 ---
 
